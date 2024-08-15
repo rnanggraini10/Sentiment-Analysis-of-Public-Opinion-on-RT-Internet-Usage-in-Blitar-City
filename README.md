@@ -1,0 +1,2 @@
+# Sentiment-Analysis-of-Public-Opinion-on-RT-Internet-Usage-in-Blitar-City
+In this project, the opinion of the community on the satisfactioner for the satisfaction of internet use of RT in Blitar City is classified into two classes, namely positive class and negative class and visualizes it with wordcloud and graph. The dataset is processed by using Lexicon Based and Support Vector Machine obtained model accuracy of 89%
